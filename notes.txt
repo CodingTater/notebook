@@ -1,6 +1,9 @@
+Notes from 2-9-16
+
 cat notes.txt
 # the cat command exports the output to the terminal
 
+lets get this to change color
 ll
 #short cut for the long list
 
