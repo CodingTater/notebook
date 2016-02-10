@@ -1,4 +1,6 @@
 Notes from 2-9-16
+#github blah blah blah blah
+
 
 cat notes.txt
 # the cat command exports the output to the terminal
